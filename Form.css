@@ -1,0 +1,42 @@
+.form{
+    margin-top: 40px;
+    max-width:700px;
+    margin:0 auto;
+    padding:20px;
+   margin-bottom: 10px;
+    border:1px solid rgba(245, 242, 242, 0);
+    background-color: rgb(244, 242, 242);
+    margin-top: 0cqb;
+  
+}
+.form label{
+    display:block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    margin:5px
+}
+.form input,
+.form textarea{
+    padding:10px;
+    border: 1px solid gray;
+    width: 100%;
+    padding-right: 1px;
+}
+.form textarea{
+    height: 200px;
+}
+.form button{
+    display:block;
+    width: 100%;
+    padding: 10px;
+    background-color: skyblue;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.form button:hover{
+    background-color: rgba(190, 184, 192, 0.922);
+   
+    border-color: grey;
+}
